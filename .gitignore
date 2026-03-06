@@ -1,0 +1,65 @@
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ/VS Code
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/generated_plugin_registrant.dart
+.packages
+.pub-preload-cache/
+.pub/
+build/
+/build/
+flutter_*.png
+
+# Android related
+**/android/**/gradle-wrapper.jar
+.gradle/
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/key.properties
+*.jks
+
+# iOS/macOS related
+**/ios/Flutter/.last_build_id
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/**/xcuserdata
+**/macos/Flutter/ephemeral/
+**/Pods/
+**/xcuserdata/
+
+# Symbols and Coverage
+app.*.symbols
+app.*.map.json
+coverage/
+
+# Firebase secrets (NUNCA SUBIR)
+lib/firebase_options.dart
+ios/Runner/GoogleService-Info.plist
+macos/Runner/GoogleService-Info.plist
+
+# Build files
+build/
+.dart_tool/

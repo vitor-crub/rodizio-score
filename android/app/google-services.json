@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170910642039",
+    "project_id": "rodizioscore",
+    "storage_bucket": "rodizioscore.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170910642039:android:34c0ff8dc7fb8ff7f4bb72",
+        "android_client_info": {
+          "package_name": "com.example.rodizio_stats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxnWhQ9CtZV_CmR6hI9hEhj0OwX2UmKus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

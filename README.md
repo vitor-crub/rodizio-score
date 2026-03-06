@@ -1,17 +1,41 @@
-# rodizio_stats
+# RodízioScore
 
-A new Flutter project.
+**Quantifying the "Dining Dilemma" through Real-Time Performance Tracking.**
 
-## Getting Started
+Developed by an **Art History PhD** and enthusiast of **Market Dynamics**, **Rodízio Score** is a Flutter-based application designed to solve a personal "dining dilemma" at all-you-can-eat restaurants: balancing satiety with gastronomic variety.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Overview
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+This project leverages **Flutter and Dart** to provide an intuitive interface where users can log consumption across different food categories (Sushi, Pizza, Steaks, etc.) and visualize group performance metrics in real-time.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tech Stack
+
+* **Framework**: Flutter
+* **Language**: Dart
+* **Backend**: Firebase (Hosting & Analytics)
+* **Deployment**: GitHub Pages
+
+---
+
+## Security & Governance
+
+This repository adheres to technical best practices for digital security:
+* **API Restriction**: All Google/Firebase API keys are restricted via HTTP Referrer to the official production domain.
+* **Secret Management**: Sensitive configuration files are protected via `.gitignore`.
+* **Clean History**: The Git history has been audited and purged to ensure no legacy credentials remain in the version control system.
+
+---
+
+## Key Features
+
+* **Buffet Selection**: Choose between specialized cuisines (Brazilian Churrasco, Japanese, Italian).
+* **Smart Counter**: Optimized UI for quick entry during active dining.
+* **Data Visualization**: Real-time transformation of raw consumption into social group dynamics and "scoring".
+
+---
+
+## License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.

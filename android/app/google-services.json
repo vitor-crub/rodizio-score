@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "170910642039",
+    "firebase_url": "https://rodizioscore-default-rtdb.firebaseio.com",
     "project_id": "rodizioscore",
     "storage_bucket": "rodizioscore.firebasestorage.app"
   },
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAxnWhQ9CtZV_CmR6hI9hEhj0OwX2UmKus"
+          "current_key": "AIzaSyA8hxoNbeCZgIkOQyYWFo-5ZMtlnkUa3W8"
         }
       ],
       "services": {

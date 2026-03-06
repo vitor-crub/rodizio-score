@@ -6,6 +6,9 @@ Developed by an **Art History PhD** and enthusiast of **Market Dynamics**, **Rod
 
 ---
 
+### [Live Demo: Access the Web App Here](https://vitor-crub.github.io/rodizio-score/)
+---
+
 ## Overview
 
 This project leverages **Flutter and Dart** to provide an intuitive interface where users can log consumption across different food categories (Sushi, Pizza, Steaks, etc.) and visualize group performance metrics in real-time.

@@ -1,0 +1,1 @@
+ /Users/vitorcrubelatti/rodizio_stats/.dart_tool/flutter_build/4afc5d2a98098162f3533306bf550abc/dart_build_result.json:  /Users/vitorcrubelatti/rodizio_stats/.dart_tool/package_config.json /Users/vitorcrubelatti/rodizio_stats/pubspec.yaml /opt/homebrew/share/flutter/bin/cache/dart-sdk/version
